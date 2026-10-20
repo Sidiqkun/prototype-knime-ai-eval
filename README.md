@@ -1,0 +1,2 @@
+# prototype-knime-ai-eval
+INFORMATICS PRACTITIONER LECTURE SERIES 2026
