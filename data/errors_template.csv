@@ -1,0 +1,4 @@
+run_id,crisp_stage,error_type,severity,description
+AI_T1_short_r1,data_preparation,feature_leakage,3,Used days_overdue as predictor
+AI_T1_short_r1,modeling,random_split_instead_of_time_split,2,Random partitioning node used
+AI_T1_mid_r1,evaluation,accuracy_only,2,No recall/F1 reported

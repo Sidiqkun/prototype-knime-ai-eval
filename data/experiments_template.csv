@@ -1,0 +1,6 @@
+run_id,task,condition,prompt_level,run,minutes,n_errors,human_corrections,leakage_flag,recall,f1,roc_auc
+M_T1_r1,late_classification,manual,,1,95,0,0,0,0.41,0.45,0.72
+M_T1_r2,late_classification,manual,,2,90,0,0,0,0.40,0.44,0.71
+AI_T1_short_r1,late_classification,ai,short,1,20,3,5,1,0.88,0.80,0.97
+AI_T1_mid_r1,late_classification,ai,medium,1,25,2,3,0,0.40,0.44,0.70
+AI_T1_detail_r1,late_classification,ai,detailed,1,30,1,2,0,0.42,0.46,0.72
